@@ -5,8 +5,8 @@ var dlugosc = haslo.length;
 
 var ile_skuch = 0;
 
-var yes = new Audio("audio/correct.mp3");
-var no = new Audio("audio/wrong.mp3");
+var yes = new Audio("correct.mp3");
+var no = new Audio("wrong.mp3");
 
 var haslo1 = "";
 
